@@ -22,4 +22,7 @@ def validate_query(query: str) -> bool:
     return True
 
 def check(self):
-    print("This is a utility function.")
+    print("This is a utility function.-----")
+    
+def check2(self):
+    print("This is another utility function.-----")

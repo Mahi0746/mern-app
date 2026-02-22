@@ -20,3 +20,6 @@ def validate_query(query: str) -> bool:
     if len(query) < 2:
         return False
     return True
+
+def check(self):
+    print("This is a utility function.")
